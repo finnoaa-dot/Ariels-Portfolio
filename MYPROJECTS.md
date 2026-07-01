@@ -43,21 +43,75 @@ A curated collection of my professional and personal projects.
 ### 4. [AI Platform Evaluation and Usability Mixed-Methods Study]
 - **Repository**: [AI Platform Evaluation and Usability Mixed-Methods Study](https://github.com/finnoaa-dot/AI-Platform-Evaluation-Study)
 - **Methodology**: 3-phase, mixed-methods research program
-- **Description**: Examining TELUS Digital's internally built AI platform across the full employee base to quantify the business value and user experience impact of AI copilots in daily task completion.
+- **Description**: Examining TELUS Digital's internally built AI platform across the full employee base to quantify the business value and user experience impact of AI copilots in daily task compl[...]
 - **Technologies**: Figma, Qualtrics, UserInterviews, Google Suite, Looker, HotJar
 - **Key Business Impact**:
   - AI copilot use saves 108 hours per employee annually
   - Cost savings for the firm upwards of $7M per year
   - Employees who use copilots save an average of 70% time on task
-- **Key Findings**: Copilots help increase productivity and decrease stress and context switching for end-users. My work created and enacted a framework for quantifying the benefits of incorporating copilots into daily task completion. Employees report a better work/life balance and spend more time creatively improving their work or iterating on new ideas.
+- **Key Findings**: Copilots help increase productivity and decrease stress and context switching for end-users. My work created and enacted a framework for quantifying the benefits of incorporati[...]
 
 ## Other Notable Projects
 
-AI + loyalty strategy engagement for a Fintech firm 
+<details>
+<summary><strong>AI + Loyalty Strategy Engagement for a Fintech Firm</strong></summary>
 
-A new communication and marketplace app for the agriculture industry 
+**Methodology**: Multi-day workshops, competitive analysis, strategic prioritization, archival research
 
-DTaaS pricing strategy effort for a Food & Beverage industry giant 
+**Objectives**: Leverage AI's capabilities to personalize offers, enhance engagement, and improve customer retention, ultimately driving increased spending and loyalty across Synchrony and Fiserv's platforms.
+
+**Description**: Engaged with a leading fintech firm to develop a comprehensive AI-powered loyalty strategy. Through intensive collaborative workshops combined with competitive analysis and strategic prioritization, I identified high-value use cases where AI could deliver tangible benefits to their loyalty ecosystem.
+
+**Technologies**: Figma, Google Suite, UserInterviews, Excel
+
+**Business Impact**: 
+- Identified and prioritized high-value AI use cases that could be seamlessly integrated into Synchrony and Fiserv's loyalty platforms
+- Addressed critical customer needs while delivering measurable business outcomes
+- Provided a strategic roadmap for AI implementation that balanced customer value with business objectives
+
+</details>
+
+<details>
+<summary><strong>New Communication and Marketplace App for the Agriculture Industry (Gameplan)</strong></summary>
+
+**Methodology**: Concept Testing, Generative Research, Competitive Analysis, Future Trends Analysis
+
+**Objectives**: Develop a sales enablement app ("Gameplan") to streamline crop planning and communication between growers and agronomists, improving efficiency and decision-making in the agricultural sales process.
+
+**Description**: Led research for a Canadian agriculture mega-cap to develop their "Gameplan" app—a sales enablement tool designed to revolutionize how growers and agronomists collaborate on crop planning. Through moderated user interviews, in-depth generative research, and competitive analysis, I uncovered the pain points, workflows, and future needs of both agronomists and growers, ensuring the app would address real industry challenges.
+
+**Technologies**: Figma, UserInterviews, dScout, Lyssna, Lookback
+
+**Key Research Insights**:
+- Conducted moderated user interviews with agronomists and growers to test the app concept
+- Performed in-depth generative research to understand needs, challenges, and current practices
+- Analyzed competitor apps and platforms to identify industry best practices and differentiation opportunities
+- Conducted future trends analysis to anticipate emerging needs in agriculture
+
+**Impact**: The research findings directly influenced the prioritization of features for the Gameplan app's MVP and future development roadmap, ensuring the app addresses the most critical needs and challenges of both agronomists and growers.
+
+</details>
+
+<details>
+<summary><strong>DTaaS Pricing Strategy for Food & Beverage Industry Giant (BEES Data Monetization)</strong></summary>
+
+**Methodology**: Two strategic frameworks, competitive analysis, business intelligence, desk research
+
+**Objectives**: Develop a comprehensive data monetization strategy for the BEES marketplace platform that maximizes value while balancing the needs of BEES partners, commercial teams, and company growth objectives.
+
+**Description**: Partnered with a major F&B industry leader to develop a data monetization strategy for their BEES marketplace platform. The challenge was to determine how to price and package data in a way that creates value for all stakeholders—from third-party partners using the platform to internal commercial teams. Through strategic frameworks and competitive analysis, I crafted a comprehensive approach to unlock the untapped value of their data assets.
+
+**Technologies**: Strategic frameworks, business intelligence tools, competitive analysis
+
+**Business Impact**:
+- **Increased marketplace growth**: Valuable data insights incentivize partners to join and remain on the platform, driving increased sales and revenue
+- **Enhanced partner satisfaction**: Access to data empowers partners to make better business decisions, leading to improved performance and loyalty
+- **Optimized internal resources**: Standardized data offerings reduce ad-hoc data requests on commercial teams, freeing resources for higher-value activities
+- **Future monetization opportunities**: Assessment of dedicated sales support capacity opens new revenue streams and business models for BEES
+
+**Strategic Value**: This pricing strategy provides BEES with a repeatable, scalable approach to data monetization that grows with the platform and creates value for multiple stakeholder groups.
+
+</details>
 
 ## My Articles
 
