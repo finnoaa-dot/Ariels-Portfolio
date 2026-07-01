@@ -4,7 +4,7 @@ Welcome to my professional portfolio! Here you'll find some of my best projects,
 
 ## About Me
 
-I'm a digital UX researcher and strategist. I'm passionate about bringing the voice of the end-user into the creation of products, and research that provides value. I enjoy solving complex problems and delivering impactful insights.
+I'm a digital UX researcher and strategist. I'm passionate about bringing the voice of the end-user into the creation of products, and research that provides value. I enjoy solving complex problems[...]
 
 ## Skills
 
@@ -21,7 +21,10 @@ A digital strategy complete with new telecomm app to retain and delight Canadian
 Revolutionize the timeshare booking experience with a streamlined, visually captivating, and personalized solution that delights owners and drives long-term loyalty. 
 
 ### [Bringing On-Demand, Subscription-Based Dance Fitness D2C](MYPROJECTS.md#zumba-dance)
-Zumba was in need of a digital partner to guide them through a mission-critical pivot in their business model – from offering strictly in-person studio fitness classes to adding an on-demand, subscription-based experience.
+Zumba was in need of a digital partner to guide them through a mission-critical pivot in their business model – from offering strictly in-person studio fitness classes to adding an on-demand, su[...]
+
+### [AI Platform Evaluation and Usability Mixed-Methods Study](MYPROJECTS.md#ai-platform-evaluation)
+Examining TELUS Digital's internally built AI platform across the full employee base, uncovering that AI copilots save 108 hours per employee annually and generate $7M+ in annual cost savings.
 
 ## Get In Touch
 
