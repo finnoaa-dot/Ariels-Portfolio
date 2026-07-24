@@ -1,1 +1,25 @@
 theme: jekyll-theme-slate
+
+title: Ariel Finno
+description: Senior Researcher | Mixed-Methods Market, Product & Brand Research
+author: Ariel Finno
+
+url: "https://finnoaa-dot.github.io"
+baseurl: "/Ariels-Portfolio"
+
+show_downloads: false
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+plugins:
+  - jekyll-seo-tag
+
+# Used by the site header in the Slate theme
+github:
+  is_project_page: true
+  repository_url: "https://github.com/finnoaa-dot/Ariels-Portfolio"
+  repository_name: Ariels-Portfolio
+  owner_name: finnoaa-dot
+  owner_url: "https://github.com/finnoaa-dot"
