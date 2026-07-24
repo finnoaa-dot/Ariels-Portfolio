@@ -1,1 +1,173 @@
+---
+---
 
+@import "{{ site.theme }}";
+
+// -----------------------------
+// Color palette
+// -----------------------------
+$accent: #2c5f8a;
+$accent-dark: #1e4260;
+$text-muted: #5a6472;
+$border-light: #e1e4e8;
+
+// -----------------------------
+// Header
+// -----------------------------
+.page-header {
+  background: linear-gradient(120deg, $accent-dark 0%, $accent 100%);
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+
+.project-name {
+  font-weight: 600;
+  letter-spacing: -0.5px;
+}
+
+.project-tagline {
+  font-weight: 300;
+  opacity: 0.9;
+}
+
+.btn {
+  border-radius: 4px;
+  transition: background-color 0.15s ease, transform 0.15s ease;
+
+  &:hover {
+    transform: translateY(-1px);
+  }
+}
+
+// -----------------------------
+// Main content
+// -----------------------------
+.main-content {
+  max-width: 44rem;
+  line-height: 1.65;
+
+  h1, h2, h3 {
+    font-weight: 600;
+  }
+
+  h2 {
+    margin-top: 3rem;
+    padding-bottom: 0.4rem;
+    border-bottom: 1px solid $border-light;
+  }
+
+  // Project entries: adds a left accent bar and spacing so each
+  // project reads like a distinct card rather than a plain heading
+  h3 {
+    margin-top: 2rem;
+    padding-left: 1rem;
+    border-left: 4px solid $accent;
+  }
+
+  h3 + p {
+    margin-left: 1rem;
+    color: $text-muted;
+  }
+
+  h3 a {
+    color: inherit;
+    text-decoration: none;
+
+    &:hover {
+      color: $accent;
+      text-decoration: underline;
+    }
+  }
+
+  // Skills list and Get In Touch list rendered as clean tags/rows
+  ul li {
+    margin-bottom: 0.4rem;
+  }
+
+  a {
+    color: $accent;
+
+    &:hover {
+      color: $accent-dark;
+    }
+  }
+
+  hr {
+    margin: 2.5rem 0;
+    border: none;
+    border-top: 1px solid $border-light;
+  }
+}
+
+// -----------------------------
+// Project entries with thumbnails
+// -----------------------------
+.project-entry {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.25rem;
+  margin-top: 2rem;
+
+  h3 {
+    margin-top: 0;
+  }
+
+  h3 + p {
+    margin-left: 0;
+  }
+}
+
+.project-thumb {
+  flex: 0 0 140px;
+  width: 140px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 6px;
+  border: 1px solid $border-light;
+  background-color: #f6f8fa; // shows as a neutral placeholder if an image is missing
+}
+
+.project-text {
+  flex: 1;
+  min-width: 0;
+}
+
+// Stack thumbnail above text on narrow screens
+@media (max-width: 600px) {
+  .project-entry {
+    flex-direction: column;
+  }
+
+  .project-thumb {
+    width: 100%;
+    height: 160px;
+  }
+}
+
+// -----------------------------
+// Resume button
+// -----------------------------
+.resume-btn {
+  display: inline-block;
+  margin-top: 0.5rem;
+  padding: 0.75rem 1.75rem;
+  background: linear-gradient(120deg, $accent-dark 0%, $accent 100%);
+  color: #fff;
+  font-weight: 600;
+  border: none;
+  border-radius: 6px;
+
+  &:hover {
+    background: $accent-dark;
+    color: #fff;
+  }
+}
+
+// -----------------------------
+// Footer
+// -----------------------------
+.site-footer {
+  border-top: 1px solid $border-light;
+  color: $text-muted;
+  font-size: 0.85rem;
+}
