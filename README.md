@@ -4,7 +4,7 @@ Welcome to my professional portfolio! Here you'll find some of my best projects,
 
 ## About Me
 
-I'm a digital UX researcher and strategist. I'm passionate about bringing the voice of the end-user into the creation of products, and research that provides value. I enjoy solving complex problems[...]
+I'm a digital UX researcher and strategist. I'm passionate about bringing the voice of the end-user into the creation of products, and research that provides value. I enjoy solving complex problems in zero-to-one product spaces.
 
 ## Skills
 
