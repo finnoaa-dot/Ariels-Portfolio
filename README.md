@@ -1,3 +1,8 @@
+<div class="project-entry">
+  <img src="assets/images/profilepic.png" alt="I'm Ariel" class="project-thumb">
+  <div class="project-text">
+    <h3><a href="ABOUTME.md#profilepic">My Professional Background</a></h3>
+    
 # Hi, I'm Ariel
 
 Welcome to my professional portfolio! Here you'll find some of my best projects, skills, and experience.
