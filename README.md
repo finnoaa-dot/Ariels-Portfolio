@@ -54,7 +54,7 @@ I'm a digital UX researcher and strategist. I'm passionate about bringing the vo
 
 ## Get In Touch
 
-- **Email**: aafinno@gmail.com
+- **Email**: aafinno-AT-gmail.com
 - **LinkedIn**: [linkedin.com/in/arielfinno](https://linkedin.com/in/arielfinno)
 
 ## Resume
